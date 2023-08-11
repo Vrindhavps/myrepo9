@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>mypolymor.loop</mainClass>
+							<mainClass>mypolymor.jenkins1</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
