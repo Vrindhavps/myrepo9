@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>mypolymor.jenkins1</mainClass>
+							<mainClass>mypolymor.Jenkins</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
