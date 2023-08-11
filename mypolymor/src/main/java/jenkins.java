@@ -1,10 +1,10 @@
-package mypolymor;
 
-public class jenkins1 {
+public class jenkins {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hallo world");
+		System.out.print("Hallow World");
+
 	}
 
 }
