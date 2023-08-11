@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>mypolymer.loop</mainClass>
+							<mainClass>mypolymor.loop</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
